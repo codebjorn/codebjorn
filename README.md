@@ -1,4 +1,4 @@
-#### 👋 Hi, I’m @codebjorn, Full Stack Engineer
+#### 👋 Hi, I’m @codebjorn, Full Stack Engineer, here is my [Linkedin](https://www.linkedin.com/in/dorin-lazar-01943417b/)
 
 To know better my code please check this awesome repositories:
 
