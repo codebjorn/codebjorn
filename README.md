@@ -15,6 +15,9 @@ To know better my code please check this awesome repositories:
 - 👩‍🚀 React.js(TypeScript)  
   [React, Redux, CRA](https://github.com/codebjorn/typescript-redux-react)  
 
+- 🐸 Vue.js(Typescript)  
+  [Vue.js 3, Pinia](https://github.com/codebjorn/vue-3-example)
+
 - 🪖 WordPress  
   [Utility Framework](https://github.com/codebjorn/mjolnir)   
 
