@@ -12,6 +12,9 @@ To know better my code please check this awesome repositories:
   [Lumen](https://github.com/codebjorn/lumen-8-example)   
   [Symfony](https://github.com/codebjorn/symfony-5-example) 
 
+- 🎲 Java  
+  [Spring Boot, Security, JPA, Flyway](https://github.com/codebjorn/spring-boot-example). 
+
 - 👩‍🚀 React.js(TypeScript)  
   [React, Redux, CRA](https://github.com/codebjorn/typescript-redux-react)  
 
