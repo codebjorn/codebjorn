@@ -6,6 +6,7 @@ To know better my code please check this awesome repositories:
   [Express, GraphQL, PostgresDB, Docker](https://github.com/codebjorn/express-graphql-example)  
   [Nest.js, REST, MongoDB, DDD, CQRS](https://github.com/codebjorn/nestjs-ddd-cqrs)    
   [Nest.js, Apache Kafka](https://github.com/codebjorn/nest-kafka)
+  [Kubernetes, Nest.js, Monorepo](https://github.com/codebjorn/nest-kafka)
 
 - 🤖 PHP  
   [Laravel DDD](https://github.com/codebjorn/laravel-ddd)    
